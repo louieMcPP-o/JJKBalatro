@@ -1,0 +1,9 @@
+{
+  "id": "Kaisen",
+  "name": "Jujutsu Kaisen x Balatro",
+  "author": ["McPP"],
+  "description": "Jujutsu Kaisen x Balatro ?!",
+  "prefix": "Kaisen",
+  "main_file": "Main-McMods.lua",
+  "version": "1.0.1"
+}
